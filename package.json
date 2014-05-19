@@ -2,5 +2,10 @@
     "name": "js-ood",
     "version": "0.0.1",
     "author": "cleversoap",
-    "main": "lib/js-ood.js"
+    "main": "lib/js-ood.js",
+    "repository": {
+        "type": "git",
+        "url": "http://guthub.com/cleversoap/js-ood.git"
+    },
+    "description": "Object Oriented Diagraming Structures"
 }
