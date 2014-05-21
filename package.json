@@ -7,5 +7,9 @@
         "type": "git",
         "url": "http://guthub.com/cleversoap/js-ood.git"
     },
-    "description": "Object Oriented Diagraming Structures"
+    "description": "Object Oriented Diagraming Structures",
+    "devDependencies" : {
+        "gulp": "latest",
+        "gulp-browserify": "latest"
+    }
 }
